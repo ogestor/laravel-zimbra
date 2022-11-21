@@ -12,7 +12,7 @@
 Install the package:
 
 ```bash
-composer require diegosouza/laravel-zimbra --dev
+composer require ogestor/laravel-zimbra --dev
 ```
 
 Publish the configuration file using:
