@@ -1,12 +1,12 @@
 {
-    "name": "diegosouza/laravel-zimbra",
+    "name": "ogestor/laravel-zimbra",
     "description": "A Laravel wrapper to interact with Zimbra API.",
     "keywords": [
         "laravel",
         "zimbra",
         "api"
     ],
-    "homepage": "https://github.com/diegosouza/laravel-zimbra",
+    "homepage": "https://github.com/ogestor/laravel-zimbra",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
